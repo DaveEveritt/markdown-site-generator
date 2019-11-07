@@ -1,34 +1,28 @@
+"use strict";
+
 const pages = [
   {
-    "page": document.getElementById('page-1'),
-    "mdFile": './markdown/index.md'
+    "page": document.getElementById('page-01'),
+    "mdFile": './markdown/page-01.md'
   },
   {
-    "page": document.getElementById('page-2'),
-    "mdFile": './markdown/problem.md'
+    "page": document.getElementById('page-02'),
+    "mdFile": './markdown/page-02.md'
   },
   {
-    "page": document.getElementById('page-3'),
-    "mdFile": './markdown/solution.md'
+    "page": document.getElementById('page-03'),
+    "mdFile": './markdown/page-03.md'
   },
   {
-    "page": document.getElementById('page-4'),
-    "mdFile": './markdown/cases.md'
+    "page": document.getElementById('page-04'),
+    "mdFile": './markdown/page-04.md'
   },
   {
-    "page": document.getElementById('page-5'),
-    "mdFile": './markdown/everyone.md'
+    "page": document.getElementById('page-05'),
+    "mdFile": './markdown/page-05.md'
   },
   {
-    "page": document.getElementById('page-6'),
-    "mdFile": './markdown/prices.md'
-  },
-  {
-    "page": document.getElementById('page-7'),
-    "mdFile": './markdown/about.md'
-  },
-  {
-    "page": document.getElementById('page-8'),
-    "mdFile": './markdown/research.md'
+    "page": document.getElementById('page-06'),
+    "mdFile": './markdown/page-06.md'
   }
 ]

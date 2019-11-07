@@ -1,22 +1,18 @@
-# Website for Ecovisum
+# Website generated from separate markdown files
 
-Test: free hosting etc. from GitHub to Render.com: [ecovisum.onrender.com](https://ecovisum.onrender.com/).
 
-A rough content plan and outline for the new [Ecovisum website](https://daveeveritt.github.io/ecovisum-site/), as a static single page built from Markdown files compiled with [Showdown.js](https://github.com/showdownjs/showdown/wiki/Showdown-options). Just edit the markdown, push and the live site is updated.
+page built from Markdown files compiled with [Showdown.js](https://github.com/showdownjs/showdown/wiki/Showdown-options). Just edit the markdown, push and the live site is updated.
 
 ## TO DO
 
-- [ ] make 2 repos: Ecovisum, Markdown-GitHub Pages
-- [ ] add "use strict" and contain code in an IIFE
+- [ ] put `pages` in a more flexible data structure
+- [ ] replace EcoVisum material
+- [ ] contain code in an IIFE
 - [ ] do mobile menu
 - [ ] make design as a skin
 - [ ] refactor styles as a neutral wireframe
-- [ ] minify .js files
-- [x] concatenate .js files
-- [x] map through an object storing the markdown file paths and HTML destinations
-- [x] make Markdown converter generic
-- [x] rewrite content (this is a straight copy)
-- [x] decide on whether we need a contact form (not yet)
+- [ ] automate minification of .js files
+- [X] add "use strict"
 
 ## Minification
 
@@ -42,6 +38,7 @@ In package.json:
 
 ## References
 
+- Test: free hosting etc. from GitHub to Render.com: [ecovisum.onrender.com](https://ecovisum.onrender.com/)
 - [answer to "Get text from a txt file in the url"](https://stackoverflow.com/a/39758157/123033)
 - [Showdown.js](http://showdownjs.com/)
 - [Jake Archibald: "That's so fetch!"](https://jakearchibald.com/2015/thats-so-fetch/)

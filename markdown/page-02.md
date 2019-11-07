@@ -1,8 +1,6 @@
 # The problem
 
-![Image of people using energy unthinkingly]()
-
-> Energy and its management is famously invisible to end users [REF_LINK](#)
+> Energy and its management is famously invisible to end users
 
 Energy efficiency is theoretically easy, but in practice it’s a huge challenge to monitor and optimise energy performance across large numbers of buildings in one location.
 
@@ -23,4 +21,4 @@ Organisations have increasing access to good quality energy and water usage data
 
 However, the **volume of data** generated can be **overwhelming** and data management systems are often costly and overly complex, being designed primarily for technical users.
 
-See [our **solution**](#page-3)
+See [our **solution**](#page-03)

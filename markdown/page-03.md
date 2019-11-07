@@ -1,7 +1,5 @@
 # Our solution
 
-![energy use](images/general-energy-use.png)
-
 > If building users change their behaviour, they need a visible indicator of their impact on energy costs to maintain motivation
 
 We think energy management should be a distributed task with energy managers situated within a network of stakeholders.
